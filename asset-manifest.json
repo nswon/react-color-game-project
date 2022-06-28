@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-github-pages/index.html/static/css/main.70f8ebd3.css",
-    "main.js": "/react-github-pages/index.html/static/js/main.aceff10d.js",
-    "index.html": "/react-github-pages/index.html/index.html",
-    "main.70f8ebd3.css.map": "/react-github-pages/index.html/static/css/main.70f8ebd3.css.map",
-    "main.aceff10d.js.map": "/react-github-pages/index.html/static/js/main.aceff10d.js.map"
+    "main.css": "/react-github-pages/static/css/main.70f8ebd3.css",
+    "main.js": "/react-github-pages/static/js/main.1c51e1ee.js",
+    "index.html": "/react-github-pages/index.html",
+    "main.70f8ebd3.css.map": "/react-github-pages/static/css/main.70f8ebd3.css.map",
+    "main.1c51e1ee.js.map": "/react-github-pages/static/js/main.1c51e1ee.js.map"
   },
   "entrypoints": [
     "static/css/main.70f8ebd3.css",
-    "static/js/main.aceff10d.js"
+    "static/js/main.1c51e1ee.js"
   ]
 }
